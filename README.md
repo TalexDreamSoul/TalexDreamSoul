@@ -5,19 +5,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talexdreamsoul" alt="talexdreamsoul" /></a> </p>
 
-- 🔭 I’m currently working on [talex-touch](https://github.com/talex-touch/talex-touch)
-
 - 🌱 I’m currently learning **C++**
 
 - 👯 I’m looking to collaborate on [talex-touch](https://github.com/talex-touch/talex-touch)
-
-- 🤝 I’m looking for help with [talex-touch](https://github.com/talex-touch/talex-touch)
 
 - 💬 Ask me about **Vue**
 
 - 📫 How to reach me **TalexDreamSoul@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Status:</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talexdreamsoul&show_icons=true&locale=en&layout=compact" alt="talexdreamsoul" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talexdreamsoul&show_icons=true&locale=en" alt="talexdreamsoul" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talexdreamsoul&" alt="talexdreamsoul" /></p>
+
 <p align="left">
 </p>
 
@@ -26,9 +29,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/talexdreamsoul"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="talexdreamsoul" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talexdreamsoul&show_icons=true&locale=en&layout=compact" alt="talexdreamsoul" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talexdreamsoul&show_icons=true&locale=en" alt="talexdreamsoul" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talexdreamsoul&" alt="talexdreamsoul" /></p>
