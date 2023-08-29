@@ -9,11 +9,11 @@
 
 <h3 align="left">My Status:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=talexdreamsoul&show_icons=true&locale=en" alt="talexdreamsoul" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talexdreamsoul&show_icons=true&locale=en&layout=compact" alt="talexdreamsoul" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talexdreamsoul&show_icons=true&locale=en&layout=compact" alt="talexdreamsoul" /></p>
+<br><br><br><br><br><br><br>
 
-<br><br><br><br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talexdreamsoul&show_icons=true&locale=en" alt="talexdreamsoul" /></p>
 
 <h3 align="left">Support:</h3>
 
