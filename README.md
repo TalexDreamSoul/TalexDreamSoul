@@ -1,18 +1,23 @@
-<h1 align="center">Hi 👋, I'm TalexDreamSoul</h1>
-<h3 align="center">A high school student, the full stack developer</h3>
+# TalexDreamSoul
 
-- 🌱 I’m currently learning **C++**
+I build **reliable, human-governed agent systems** and **local-first software**. My work sits between capable models and trustworthy delivery: task specification, typed capabilities, memory and skill lifecycle, behavioral verification, release identity, and recovery evidence.
 
-- 👯 I’m looking to collaborate on [talex-touch](https://github.com/talex-touch/talex-touch)
+## Current focus
 
-- 📫 How to reach me **TalexDreamSoul@gmail.com**
+- **[Tuff](https://github.com/talex-touch/tuff)** — an open-source command bar and desktop agent runtime with sandboxed plugins and a TypeScript SDK.
+- **[Reliable Agent Systems](https://blog.tagzxia.com/research)** — a research program on incident-to-skill learning, negative transfer, memory governance, and verifier-gated completion.
+- **AI-native production systems** — multimodal workflows where identity, cost, payment, provider behavior, and delivery provenance must agree.
 
-<h3 align="left">My Status:</h3>
+## Selected work
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=talexdreamsoul&show_icons=true&locale=en&layout=compact" alt="talexdreamsoul" /></p>
+- **[Lexi](https://github.com/talex-touch/touch-xxeng-heart)** — contextual reading and vocabulary learning in the browser.
+- **[MenuCue](https://github.com/TalexDreamSoul/menucue)** — a signed and notarized native macOS menu-bar dashboard.
+- **[tds.skill](https://github.com/TalexDreamSoul/tds.skill)** — evidence-first engineering and release discipline distilled into reusable agent procedures.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talexdreamsoul&show_icons=true&locale=en" alt="talexdreamsoul" /></p>
+## Working rule
 
-<h3 align="left">Support:</h3>
+> A change is not complete because it compiles. It is complete when observable behavior, release identity, and recovery evidence agree.
 
-<p><a href="https://www.buymeacoffee.com/talexdreamsoul"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="talexdreamsoul" /></a></p><br><br>
+- **Writing:** [blog.tagzxia.com](https://blog.tagzxia.com/)
+- **GitHub:** [@TalexDreamSoul](https://github.com/TalexDreamSoul)
+- **Contact:** [TalexDreamSoul@gmail.com](mailto:TalexDreamSoul@gmail.com)
