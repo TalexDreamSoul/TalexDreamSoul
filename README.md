@@ -5,7 +5,7 @@ I build **reliable, human-governed agent systems** and **local-first software**.
 ## Current focus
 
 - **[Tuff](https://github.com/talex-touch/tuff)** — an open-source command bar and desktop agent runtime with sandboxed plugins and a TypeScript SDK.
-- **[Reliable Agent Systems](https://blog.tagzxia.com/research)** — a research program on incident-to-skill learning, negative transfer, memory governance, and verifier-gated completion.
+- **Reliable Agent Systems** — a research program on incident-to-skill learning, negative transfer, memory governance, and verifier-gated completion.
 - **AI-native production systems** — multimodal workflows where identity, cost, payment, provider behavior, and delivery provenance must agree.
 
 ## Selected work
